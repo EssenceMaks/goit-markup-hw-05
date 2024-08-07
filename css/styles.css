@@ -484,6 +484,10 @@ img {
     color: var(--cloud);
 }
 
+.footer-info {
+    margin-right: 80px;
+}
+
 .footer-social-media {
     width: 208px;
     font-weight: 500;
