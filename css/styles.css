@@ -484,12 +484,10 @@ img {
     color: var(--cloud);
 }
 
-.footer-info {
-    margin-right: 80px;
-}
+
 
 .footer-social-media {
-    width: 208px;
+    
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -498,7 +496,9 @@ img {
     margin-right: 0;
 }
 
-
+.footer-info {
+    margin-right: 80px;
+}
 
 .footer-social-list {
     display: flex;
