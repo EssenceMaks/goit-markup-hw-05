@@ -436,7 +436,7 @@ img {
     line-height: normal;
 }
 
-.portfolio-card-description h3 {
+.portfolio-card-description h3, p {
     margin: 5px 0px;
 }
 
