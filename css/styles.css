@@ -80,7 +80,14 @@ img {
     max-width: 1158px;
     padding: 0 15px;
     margin: 0 auto;
+    text-align: center;
 }
+
+.container h2 {
+    margin-bottom: 50px;
+}
+
+
 
 .about-details-list,
 .team-list-wrapper,
@@ -428,6 +435,11 @@ img {
     border-right: 1px solid var(--cornflower);
     line-height: normal;
 }
+
+.portfolio-card-description h3 {
+    margin: 5px 0px;
+}
+
 
 .portfolio-card-content {
     position: relative;
