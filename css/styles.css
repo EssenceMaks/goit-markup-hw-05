@@ -377,10 +377,7 @@ img {
 }
 
 .team-member-card {
-    display: flex;
     width: calc((100% - 24px * 3) / 4);
-    justify-content: center;
-    flex-direction: column;
     text-align: center;
     background-color: var(--white);
     border-radius: 0px 0px 4px 4px;
@@ -436,7 +433,9 @@ img {
     line-height: normal;
 }
 
-.portfolio-card-description h3, 
+.portfolio-card-description h3 {
+    margin: 5px 0px;
+}
 .portfolio-card-description p {
     margin: 5px 0px;
 }
